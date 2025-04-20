@@ -1,9 +1,7 @@
 # Recipes
 
 ## Description
-Simple website about food recipes, made with HTML and CSS as a basic practice of these 2 technologies.
-
-This project belongs to the foundations section of [The Odin Project](https://www.theodinproject.com) course.
+Simple website about food recipes, made with HTML and CSS as a basic practice of these 2 technologies, this project is from the foundations section of [The Odin Project](https://www.theodinproject.com) course.
 
 ## Demo
 <p align="center">
