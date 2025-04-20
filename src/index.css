@@ -1,0 +1,18 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #161616;
+  color: #ffffff;
+  font-family: monospace;
+}
+
+a {
+  color: #ffffff;
+}
+
+img {
+  border: 1px solid #d3d3d3be;
+  border-radius: 8px;
+}
